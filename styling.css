@@ -1,0 +1,90 @@
+nav {
+  background-color: #1d5e90;
+  font-size: 1.2rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-bottom: solid #34a0a4;
+  text-align: center;
+}
+
+body {
+  background-color: #d9ed92;
+  color: #184e77;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.navigation {
+  color: #b5e48c;
+  font-weight: bold;
+  padding: 1rem;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: 0.5s;
+  transition-property: color;
+}
+
+.navigation:hover {
+  color: #f72585;
+  cursor: pointer;
+}
+
+.real-portfolio {
+  color: #f72585;
+  font-weight: bold;
+}
+
+.img-div {
+  text-align: center;
+}
+
+#page-img {
+  width: 39%;
+  padding: 0.3rem;
+  border-radius: 20%;
+}
+
+#projects-img {
+  width: 50%;
+}
+
+.contact-info {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #f72585;
+}
+
+.blog-list {
+  text-align: center;
+  margin: 1rem;
+}
+
+.blog-button {
+  padding: 1rem;
+  background-color: #184e77;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: 1px;
+  text-decoration: none;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border-radius: 20px;
+  transition: 0.5s;
+  transition-property: color;
+}
+
+.blog-button:hover {
+  color: #f72585;
+  cursor: pointer;
+}
